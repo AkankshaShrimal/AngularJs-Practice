@@ -1,6 +1,6 @@
 # AngularJs-minor-projects-and-practice
  
- Practice on angular.js (javascript framework).
+ Practice on Angular.js (Javascript Fronend Framework) by Google.
 
 
 ## Minor Projects
